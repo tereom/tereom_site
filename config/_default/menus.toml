@@ -10,7 +10,7 @@
  
  [[main]]
   name = "Experience"
-  url = "#about"
+  url = "#experience"
   weight = 20
 
 # [[main]]
@@ -25,12 +25,12 @@
   
 [[main]]
   name = "Teaching"
-  url = "#projects"
+  url = "#teachings"
   weight = 40
  
 [[main]]
   name = "Talks"
-  url = "#projects"
+  url = "#talks"
   weight = 50
 
 # [[main]]
