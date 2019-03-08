@@ -3,10 +3,10 @@
 title = "Computational Statistics (spanish)"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-08-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Class notes for Computational Statistics (spanish) for the master programs in Data Science and in Computer Science at ITAM. [Here](https://tereom.github.io/est-computacional-2018/) is the course site and [here](https://github.com/tereom/est-computacional-2018) is the GitHub repository with the class notes."
+summary = "I teach a course in Computational Statistics for the master programs in Data Science and in Computer Science at ITAM. Felipe González and I developed the syllabus and I developed (and yearly update) the class notes. [Here](https://tereom.github.io/est-computacional-2018/) is the course site and [here](https://github.com/tereom/est-computacional-2018) is the GitHub repository with the class notes."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
