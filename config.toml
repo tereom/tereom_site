@@ -2,3 +2,4 @@ theme = "hugo-academic"
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "María Teresa Ortiz"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
