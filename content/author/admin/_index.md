@@ -73,6 +73,11 @@ interests = [
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/tereom/"
+  
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -87,4 +92,4 @@ I am a data analyst with experience in ecology and marketing, I currently work
 in CONABIO (Mexico's National Commission of Biodiversity) where I do statistical 
 analysis related to biodiversity.  
 
-I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of R-Ladies CDMX and I regularly give short courses in R.
+I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I regularly give short courses in R.
