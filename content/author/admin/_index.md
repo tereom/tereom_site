@@ -92,4 +92,6 @@ I am a data analyst with experience in ecology and marketing, I currently work
 in CONABIO (Mexico's National Commission of Biodiversity) where I do statistical 
 analysis related to biodiversity.  
 
-I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I regularly give short courses in R.
+I also enjoy teaching, I teach statistics courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. 
+
+Lastly, I love R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I often do custom R training (introduction to R, survey data analysis in R,...).
