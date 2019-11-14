@@ -43,12 +43,13 @@ date_format = "Jan 2006"
   description = """
   Courses Taught:
   
-  * MSc Data Science: Computational Statistics, Multivariate Statistics.
+  * MSc Data Science: [Computational Statistics](https://tereom.github.io/est-computacional-2019/), [Multivariate Statistics](https://est-mult.netlify.com).
   * BSc Mathematics/BSc Actuarial Sciences: Exploratory Data Analysis and Survey Sampling.
     
   Undergraduate Thesis Advisor:
   
-  * Andres Sanudo. Analysis of the demand for parking space in Mexico City, BSc in Mathematics, 2015.
+  * Andres Sanudo. Analysis of the demand for parking space in Mexico City, BSc in Mathematics, 2015.  
+  * Beatriz Ambia. Conjoint analysis case study with Stan, BSc in Mathematics, 2019.
   
   """
 
