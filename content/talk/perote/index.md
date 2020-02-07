@@ -21,10 +21,10 @@ event = "Congreso Nacional de Ciencias Básicas Aplicadas en la Ingeniería"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "In this talk, I shared some of the work of the DGPI team in CONABIO: automatic land cover monitoring based on satelite images and biodiversity monitoring through camera traps and audio recordings."
 
 # Summary. An optional shortened abstract.
-summary = "Present the work of the DGPI team in CONABIO: automatic land cover monitoring based on satelite images and biodiversity monitoring through camera traps and audio recordings."
+summary = "In this talk, I shared some of the work of the DGPI team in CONABIO: automatic land cover monitoring based on satelite images and biodiversity monitoring through camera traps and audio recordings."
 
 # Is this a featured talk? (true/false)
 featured = false
