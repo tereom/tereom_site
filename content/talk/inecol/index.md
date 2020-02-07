@@ -18,10 +18,10 @@ location = "Mexico City"
 
 # Name of event and optional event URL.
 event = "Skills to analyze enviromental data"
-event_url = "http://posgrado.inecol.edu.mx/evaluaciones/Publico/Cursos/Detalle_curso.php?curso=997"
+event_url = "http://posgrado.inecol.edu.mx"
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "The coursework was part of a 4 week workshop on Data Science for Ecology, the sessions focused on Bayesian Networks, and some needed probability background. Students learned theory and examples using R."
 
 # Summary. An optional shortened abstract.
 summary = "A review of probability with simulation and an introduction to Bayesian Networks with R."

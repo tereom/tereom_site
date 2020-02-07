@@ -17,11 +17,11 @@ authors = []
 location = "Mexico City"
 
 # Name of event and optional event URL.
-event = "UseR! INMEGEN 2019"
-event_url = "http://www.inmegen.gob.mx/ensenanza/eventos-academicos/congreso-use-r-inmegen-2019/"
+event = "rstudio::conf"
+event_url = "https://rstudio.com/conference/"
 
 # Abstract. What's your talk about?
-abstract = "In this talk I share our experience using R in the Mexican electoral quick count, I highlight the importance of reproducibility for this application and on why writing an R package helped us improve the quick count workflow and foster process transparency in the electoral process. Finally, we hope that our experience other quick count participants to include R packages on their workflow."
+abstract = "In this talk, I share our experience using R in the Mexican electoral quick count, I highlight the importance of reproducibility for this application, and on why writing an R package helped us improve the quick count workflow and foster process transparency in the electoral process. Finally, we hope that our experience other quick count participants to include R packages on their workflow."
 
 # Summary. An optional shortened abstract.
 summary = ""
