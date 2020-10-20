@@ -13,11 +13,11 @@ role = "Data Scientist | Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "CONABIO", url = "https://www.gob.mx/conabio" },  
+organizations = [ { name = "Kantar", url = "https://www.kantar.com/" },  
 { name = "ITAM", url = "https://mcienciadatos.itam.mx" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a data analyst with experience in ecology and marketing. My interests include Statistical modeling (hierarchical models, spatial statistics, Bayesian networks), Survey design and Survey data analysis, Machine learning, and Data visualization. I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I regularly give short R courses."
+bio = "I am a data analyst with experience in marketing and ecology. My interests include Statistical modeling (hierarchical models, spatial statistics, Bayesian networks), Survey design and Survey data analysis, Machine learning, and Data visualization. I also enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at ITAM. Lastly, I love R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I regularly give short R courses."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "teresa.ortiz.mancera@gmail.com"
