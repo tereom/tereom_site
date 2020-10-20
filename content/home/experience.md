@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   Courses Taught:
   
-  * MSc Data Science: [Computational Statistics](https://tereom.github.io/est-computacional-2019/), [Multivariate Statistics](https://est-mult.netlify.com).
+  * MSc Data Science: [Computational Statistics](https://tereom.github.io/est-computacional-2019/), [Multivariate Statistics](https://est-mult.netlify.com), [Mathematical Statistics with Resampling](https://tereom.github.io/fundamentos/).
   * BSc Mathematics/BSc Actuarial Sciences: Exploratory Data Analysis and Survey Sampling.
     
   Undergraduate Thesis Advisor:
