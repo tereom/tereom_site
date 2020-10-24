@@ -1,30 +1,30 @@
 +++
-title = "Paths seguros, ¿Qué nombre le doy a mi archivo?"
+title = "Piérdele el miedo a R"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-08-03T15:30:00
-date_end = 2020-08-03T17:30:00
+date = 2020-05-16T11:00:00
+date_end = 2020-05-16T11:50:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maria Teresa Ortiz"]
+authors = ["Silvia Gutiérrez","Maria Teresa Ortiz"]
 
 # Location of event.
 location = "Remotely"
 
 # Name of event and optional event URL.
-event = "Building workflows with RStudio and Bioconductor"
-event_url = "https://comunidadbioinfo.github.io/cdsb2020/"
+event = "FLISoL"
+event_url = "https://flisol.info/FLISOL2020/Guatemala/Guatemala?fbclid=IwAR2NDCoh7RR-q4m946R9ExuyU9fomwigpfJB8-S-adQJcinJXGKhujBawc0"
 
 # Abstract. What's your talk about?
-abstract = "Good practices for paths and file naming. Based on (What They Forgot to Teach You About R)[https://rstats-wtf.netlify.app/safe-paths.html] from Jennifer Bryan and Jim Hester."
+abstract = "A demo (in spanish) of data analysis with R, featuring how to import, transform, and plot data in R."
 
 # Summary. An optional shortened abstract.
-summary = "I participated as instructor for the CDSB's 2020 workshop, held remotely."
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -39,7 +39,7 @@ tags = ["rstudio", "r"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "https://docs.google.com/presentation/d/1URnxggAMXH7Kf6KWqXHDanJnVbhMa6VqdBBfFUjW1eI/edit#slide=id.p"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
@@ -54,7 +54,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=lqkcOua62BM"
 url_code = ""
 
 # Demo talk page uses LaTeX math.
