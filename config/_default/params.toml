@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of María Teresa Ortiz, data scientist working at CONABIO and lecturer at ITAM."
+description = "Personal website of María Teresa Ortiz, data analyst working at Kantar and lecturer at ITAM."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar_2019.jpg"
