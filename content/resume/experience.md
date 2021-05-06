@@ -51,7 +51,7 @@ date_format = "January 2006"
     
   Undergraduate Thesis Advisor:
   
-  * Andres Sanudo. Analysis of the demand for parking space in Mexico City, BSc in Mathematics, 2015.  
+  * Andres Sañudo. Analysis of the demand for parking space in Mexico City, BSc in Mathematics, 2015.  
   * Beatriz Ambia. Conjoint analysis case study with Stan, BSc in Mathematics, 2019.
   
   """
