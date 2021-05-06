@@ -139,7 +139,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "r", show_logo = true}
+main_menu = {align = "r", show_logo = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -195,9 +195,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 4
   publication_view = 2
-  talk_view = 2
+  talk_view = 4
 
 ############################
 ## Comments
