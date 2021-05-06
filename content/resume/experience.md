@@ -86,7 +86,7 @@ date_format = "January 2006"
   
   I primarily worked in a project for biodiversity monitoring based on large scale in situ collections of sound, photographs, and videos.
   
-  Responsibilities included:
+  Responsibilities include:
   
   * Advise and participate in the development of statistical models, for example, the modeling of ecological integrity with Bayesian belief networks.
   * Develop R packages and shiny applications meant to analyze sounds, to generate automatic reports, and to visualize the information stored in our databases.
