@@ -1,0 +1,11 @@
+# Font style metadata
+name = "tereom"
+
+# Optional Google font URL
+google_fonts = "Nunito:400,400i|Nunito:400,400i,700,700i|DM+Mono"
+
+# Font families
+heading_font = "Nunito"
+body_font = "Nunito"
+nav_font = "Nunito"
+mono_font = "DM Mono"

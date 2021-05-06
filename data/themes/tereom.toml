@@ -1,0 +1,19 @@
+# Theme metadata
+name = "tereom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#C15F7B"
+
+# Menu
+menu_primary = "#FDF8F5"
+menu_text = "#266150"
+menu_text_active = "#C15F7B"
+menu_title = "#266150"
+
+# Backgrounds
+background = "#FDF8F5"
+home_section_odd = "#FDF8F5"
+home_section_even = "#FDF8F5"
