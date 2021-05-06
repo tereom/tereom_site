@@ -1,10 +1,9 @@
 +++
-title = "Ciencia de Datos en el conteo rápido electoral"
+title = "Seguimiento diario del COVID-19 en México"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2020-08-03T17:00:00
-date_end = 2020-08-04T18:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -18,10 +17,10 @@ location = "remote"
 
 # Name of event and optional event URL.
 event = "Data Days 2020"
-event_url = "https://sg.com.mx/dataday/"
+event_url = "https://sg.com.mx/dataday/speaker/teresa-ortiz-2/"
 
 # Abstract. What's your talk about?
-abstract = "A description of the model we developed and the challenges we faced when predicting the results of the Mexican 2018 elections."
+abstract = "A talk describing the Imperial College model we adpated and fitted for Mexico, with the purpose of estimating daily state-level cases of COVID-19 in Mexico."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -54,7 +53,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=t22zyu6_3Ts&list=PLnLzwYW6HOC6RiF7gJ6E-wG3OrLlxUPeM&index=12"
 url_code = ""
 
 # Demo talk page uses LaTeX math.
