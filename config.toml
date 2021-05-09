@@ -10,6 +10,8 @@ title = "Maria Teresa Ortiz"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://tereom.netlify.app/"
+
+# added preview to try a Twitter card, didn't work
 preview = "img/logo.png"
 
 # Enter a copyright notice to display in the site footer.
