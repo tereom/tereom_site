@@ -10,7 +10,7 @@ summary = "Notes for a 2-3 day introductory workshop to R for data analysis. [He
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["statistics", "stan", "R"]
+tags = ["statistics", "stan", "R", "notes", "workshop"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://intro-r-analisis.netlify.com/"

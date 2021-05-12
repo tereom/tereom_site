@@ -10,7 +10,7 @@ summary = "I teach a course in Computational Statistics for the master programs 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["statistics", "stan", "R"]
+tags = ["statistics", "stan", "R", "notes"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://tereom.github.io/est-computacional-2019/"
