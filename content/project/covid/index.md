@@ -12,6 +12,9 @@ summary = "We adapted the semi-mechanistic Bayesian hierarchical model of COVID-
 # Example: `tags = ["covid19", "bayesian", "stan"]`
 tags = ["statistics", "stan", "R"]
 
+authors = ["Felipe González", "Teresa Ortiz", "Michelle Anzarut"]
+
+
 # Optional external URL for project (replaces project detail page).
 external_link = "https://covid19mex.netlify.app/"
 
