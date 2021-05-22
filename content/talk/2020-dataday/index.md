@@ -1,5 +1,5 @@
 +++
-title = "Ciencia de Datos en el conteo rápido electoral"
+title = "Data science for the electoral quickcount (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

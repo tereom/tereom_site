@@ -1,5 +1,5 @@
 +++
-title = "Piérdele el miedo a R"
+title = "Do not fear R (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

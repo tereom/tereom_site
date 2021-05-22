@@ -1,5 +1,5 @@
 +++
-title = "Navegando el tidyverse"
+title = "Sailing the tidyverse (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

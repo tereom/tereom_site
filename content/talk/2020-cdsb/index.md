@@ -1,5 +1,5 @@
 +++
-title = "Paths seguros, ¿Qué nombre le doy a mi archivo?"
+title = "Safe Paths, Naming Files (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
