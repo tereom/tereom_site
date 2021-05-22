@@ -1,10 +1,10 @@
 +++
-title = "Navegando el tidyverse"
+title = "Datos geoespaciales con R"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2021-01-15T16:00:00
-date_end = 2021-01-15T18:30:00
+date = 2021-05-20T18:00:00
+date_end = 2021-05-20T19:30:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -17,11 +17,11 @@ authors = ["Maria Teresa Ortiz"]
 location = "Remote"
 
 # Name of event and optional event URL.
-event = "Workshop for the Mexican Bioinformatics Network"
-event_url = "https://www.redmexicanadebioinformatica.org/navegando-y-explotando-el-poder-del-tidyverse/"
+event = "R-Ladies Montevideo meetup"
+event_url = "https://www.meetup.com/rladies-montevideo/events/278034098/"
 
 # Abstract. What's your talk about?
-abstract = "We review the basic steps for data analysis in R, these include data import, wrangling, transformation and the split-apply-combine strategy. The workshop has a hands-on approach, thus attendees were expected to bring computers and solve problems of each section."
+abstract = "I delivered an intrductory workshop on geospatial data with R. Focused on creating maps with the packages sf and leaflet."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rstudio", "r"]
+tags = ["rstudio", "r", "maps", "geospatial"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -42,7 +42,7 @@ tags = ["rstudio", "r"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://poder-tidyverse.netlify.app/"
+url_slides = "https://mapas-rladies-mv.netlify.app/"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -54,8 +54,8 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_video = "https://youtu.be/5zoZH_LIExM"
-url_code = "https://github.com/ComunidadBioInfo/minicurso_ene_2021"
+url_video = ""
+url_code = "https://github.com/tereom/taller-mapas-mv"
 
 # Demo talk page uses LaTeX math.
 math = false
