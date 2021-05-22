@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Multivariate Statistics (spanish)"
+title = "Multivariate Statistics (Spanish)"
 
 # Date this page was created.
 date = 2019-11-27T00:00:00

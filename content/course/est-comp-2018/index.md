@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Computational Statistics (spanish)"
+title = "Computational Statistics (Spanish)"
 
 # Date this page was created.
 date = 2019-12-27T00:00:00

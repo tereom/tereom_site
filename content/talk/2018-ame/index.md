@@ -1,5 +1,5 @@
 +++
-title = "Multilevel models for the quick-counts 2018 (spanish)"
+title = "Multilevel models for the quick-counts 2018 (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

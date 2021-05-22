@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Bayesian Networks (spanish)"
+title = "Introduction to Bayesian Networks (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

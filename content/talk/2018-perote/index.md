@@ -1,5 +1,5 @@
 +++
-title = "Monitoring biodiversity and land cover through remote sensors (spanish)"
+title = "Monitoring biodiversity and land cover through remote sensors (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

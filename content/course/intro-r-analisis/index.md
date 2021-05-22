@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Introduction to R for data analysis (spanish)"
+title = "Introduction to R for data analysis (Spanish)"
 
 # Date this page was created.
 date = 2019-03-03T00:00:00

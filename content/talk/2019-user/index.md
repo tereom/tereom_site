@@ -1,5 +1,5 @@
 +++
-title = "R-Ladies CDMX (spanish)"
+title = "R-Ladies CDMX (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

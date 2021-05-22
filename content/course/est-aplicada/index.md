@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Exploratory Data Analysis and Survey Sampling (spanish)"
+title = "Exploratory Data Analysis and Survey Sampling (Spanish)"
 
 # Date this page was created.
 date = 2015-08-27T00:00:00
