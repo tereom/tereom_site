@@ -23,7 +23,7 @@ event_url = "http://lacsc2020.itam.mx/"
 abstract = "We explain the usual challenges and mistakes in building and applying machine learning methods during the AI life-cycle and discuss necessary aspects for the construction of robust and responsible decision-making/support systems, this is, 1) considering the possible sources of bias and deficiencies that may be caused by the training data, 2) problems and decisions in the development of the model, 3) a clear definition of the objectives of the justice systems and criteria to be met, 4) understanding the limitations and errors in the context of the specific project, and 5) stablishing monitoring measures for the systems."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "In this talk, I shared our work on Responsible AI, I explained usual challenges and mistakes in building and applying machine learning methods during the AI life-cycle."
 
 # Is this a featured talk? (true/false)
 featured = true

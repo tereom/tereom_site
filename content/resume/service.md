@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = ""
-  description = "Co-organizer and co-founder of Mexico City's R-Ladies chapter."
+  description = "Co-founder and co-organizer of Mexico City's R-Ladies chapter."
 
 [[item]]
   organization = ""
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-23"
   date_end = ""
-  description = "Co-organizer a 3 day workshop on Data Science, the offer included workshops in Bayesian Statistics, Spark and Data Analysis."
+  description = "Co-organized a 3 day workshop on Data Science, the offer included workshops in Bayesian Statistics, Spark and Data Analysis."
 
 
 [[item]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = "2022-11-01"
-  description = "Board committee member (voted position). I collaborate on organizing events and updating the webpage."
+  description = "Board committee member (voted position). I collaborate on organizing events and maintaining the webpage."
 
 [[item]]
   organization = ""
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-01-01"
   date_end = "2019-04-01"
-  description = "Experts evaluation committee member (2016-2019). Reviewed grant applications and interviewed candidates pursuing graduate studies in the USA."
+  description = "Experts evaluation committee member (2016-2019). I reviewed grant applications and interviewed candidates pursuing graduate studies in the USA."
 
 [[item]]
   organization = ""
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = "I participate as R instructor, I have been involved in the 2018, 2019, and 2020 CDSB workshops meant to train attendees in R and good development practices."
+  description = "I participate as R instructor, I have been involved in the 2018, 2019, 2020 and 2021 CDSB workshops meant to train attendees in R and good development practices."
   
 [[item]]
   organization = ""
@@ -77,6 +77,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-10-01"
   date_end = "2017-09-30"
-  description = "1000 Girls, 1000 Futures is a program from the NY Academy of sciences, that takes on the challenge of getting more women into STEM. As a mentor, my role was to guide and support a high school students."
+  description = "1000 Girls, 1000 Futures is a program from the NY Academy of Sciences that takes on the challenge of getting more women into STEM. As a mentor, my role was to guide and support high school students."
 
 +++

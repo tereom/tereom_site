@@ -24,7 +24,7 @@ event_url = "https://www.redmexicanadebioinformatica.org/navegando-y-explotando-
 abstract = "We review the basic steps for data analysis in R, these include data import, wrangling, transformation and the split-apply-combine strategy. The workshop has a hands-on approach, thus attendees were expected to bring computers and solve problems of each section."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "I delivered a two hour workshop for beginners in R. The material covered the basics of data wrangling with the Tidyverse."
 
 # Is this a featured talk? (true/false)
 featured = false

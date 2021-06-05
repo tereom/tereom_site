@@ -21,7 +21,7 @@ event = "FLISoL"
 event_url = "https://flisol.info/FLISOL2020/Guatemala/Guatemala?fbclid=IwAR2NDCoh7RR-q4m946R9ExuyU9fomwigpfJB8-S-adQJcinJXGKhujBawc0"
 
 # Abstract. What's your talk about?
-abstract = "A demo (in Spanish) of data analysis with R, featuring how to import, transform, and plot data in R."
+abstract = "I lead a demo (in Spanish) of data analysis with R, featuring how to import, transform, and plot data in R."
 
 # Summary. An optional shortened abstract.
 summary = ""

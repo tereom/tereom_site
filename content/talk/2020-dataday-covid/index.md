@@ -1,5 +1,5 @@
 +++
-title = "Modelling daily covid cases in Mexico (Spanish)"
+title = "Modelling daily cases of COVID in Mexico (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

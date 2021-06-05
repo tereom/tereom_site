@@ -21,7 +21,7 @@ event = "Data Days 2020"
 event_url = "https://sg.com.mx/dataday/"
 
 # Abstract. What's your talk about?
-abstract = "A description of the model we developed and the challenges we faced when predicting the results of the Mexican 2018 elections."
+abstract = "In this talk we describe of the model we developed and the challenges we faced when predicting the results of the Mexican 2018 elections."
 
 # Summary. An optional shortened abstract.
 summary = ""
