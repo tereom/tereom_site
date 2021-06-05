@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   
-  Kantar is a global consulting company. I am part of a team in charge to create, expand, enhance, automate, and maintain the analytical tools necessary to tackle research challenges. 
+  Kantar is a global consulting company. I am part of a team whose responsabilities are to create, expand, enhance, automate, and maintain the analytical tools necessary to tackle research challenges. 
   
   I lead a team of software developers (working in R), our responsabilities include:
   
