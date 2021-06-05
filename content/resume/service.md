@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-01"
   date_end = ""
-  description = "Instructor in the 2018, 2019, and 2020 CDSB workshops meant to train attendees in R and good development practices."
+  description = "I participate as R instructor, I have been involved in the 2018, 2019, and 2020 CDSB workshops meant to train attendees in R and good development practices."
   
 [[item]]
   organization = ""
