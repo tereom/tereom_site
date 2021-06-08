@@ -20,7 +20,7 @@ event = "Coloquio AME 2020"
 event_url = "https://eventos.itam.mx/es/evento/coloquio-virtual-ame"
 
 # Abstract. What's your talk about?
-abstract = "A talk describing the model we fitted for estimating daily cases of COVID-19 in Mexico."
+abstract = "In this talk, we described the model we fitted for estimating daily cases of COVID-19 in Mexico."
 
 # Summary. An optional shortened abstract.
 summary = ""
