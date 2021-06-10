@@ -6,7 +6,7 @@ title = "Foundations of Statistics (Spanish)"
 date = 2020-12-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "I teach a course in Foundations of Statistics for the master programs in Data Science at ITAM. Felipe González and I developed the syllabus and we developed the class notes along Alfredo Garbuno. [Here](https://tereom.github.io/fundamentos/) is the latest course site and [here](https://github.com/tereom/fundamentos) is the GitHub repository with the class notes."
+summary = "I teach a course in Foundations of Statistics for the master program in Data Science at ITAM. Felipe González and I developed the syllabus and we created the class notes along Alfredo Garbuno. [Here](https://tereom.github.io/fundamentos/) is the latest course site and [here](https://github.com/tereom/fundamentos) is the GitHub repository with the class notes."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

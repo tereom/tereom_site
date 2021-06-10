@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Michigan, Department of Statistics"
   organization_url = "https://lsa.umich.edu/stats"
-  title = "Outstanding 1st year Applied Masters Student"
+  title = "Outstanding 1st year Masters Student"
   url = ""
   certificate_url = ""
   date_start = "2013-07-01"
