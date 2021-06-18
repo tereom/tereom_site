@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "Kantar"
   company_url = "https://www.kantar.com/"
   location = "Mexico City"
-  date_start = "2021-02-01"
+  date_start = "2020-02-01"
   date_end = ""
   description = """
   
@@ -73,8 +73,6 @@ date_format = "January 2006"
   * Developed computational tools in R and Python to improve the efficiency of the analysis area.
 
   """
-
-
 [[experience]]
   title = "Advisor"
   company = "CONABIO"
@@ -90,7 +88,21 @@ date_format = "January 2006"
   
   * Advise and participate in the development of statistical models, for example, the modeling of ecological integrity with Bayesian belief networks.
   * Develop R packages and shiny applications meant to analyze sounds, to generate automatic reports, and to visualize the information stored in our databases.
-  """
+#   """
+#   
+# [[experience]]
+#   title = "Quick-count Technical Comittee member"
+#   company = "National Electoral Institute (INE)"
+#   company_url = "https://www.ine.mx/"
+#   location = "Mexico City"
+#   date_start = "2020-12-01"
+#   date_end = "2021-06-30"
+#   description = """
+#   
+#   I was part of the 2021 electoral quick-counts. The objective was to predict election results on election night based on a probabilistic sample of polling stations. As Technical Committee member I was in charge of the sample design of 2 state elections and of forecasting 5 elections.
+# 
+# 
+#   """
 
 [[experience]]
   title = "Data Analyst"

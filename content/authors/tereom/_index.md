@@ -51,9 +51,11 @@ social:
   link: https://www.linkedin.com/in/tereom
 ---
 
-I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked in [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity. 
+I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
+
+I have participated in two [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/), in 2021 as Technical Committee Member and in 2018 as Technical Committee Assistant.
 
 I also enjoy teaching. I teach statistics courses to master students in Data Science and to bachelor/undergraduate students in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). 
 
 
-Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/). I volunteer with the Mexican *Community of Bioinformatics Software Developers* [CDSB](https://comunidadbioinfo.github.io/) teaching R. And I deliver custom R training (introduction to R, survey data analysis in R, data science with R,...), I have trained people from diverse backgrounds, including: [OXFAM Mexico](https://www.oxfammexico.org), [GNP](https://www.gnp.com.mx), [SAT](https://www.sat.gob.mx/home) and [COLMEX](https://www.colmex.mx)).
+Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/). I volunteer with the Mexican *Community of Bioinformatics Software Developers* [CDSB](https://comunidadbioinfo.github.io/) teaching R. And I deliver custom R training (introduction to R, survey data analysis in R, data science with R,...).
