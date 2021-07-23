@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -79,3 +79,21 @@ date_format = "Jan 2006"
   description = ""
 
 +++
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
+**Outstanding 1st year Masters Student** (Jul 2013), University of Michigan, [Department of Statistics](https://lsa.umich.edu/stats).
+
+**Tuition waiver to attend the Sampling Program for Survey Statisticians** (May 2013), University of Michigan, [Institute for Social Research](https://isr.umich.edu/).
+
+**Fulbright-García Robles grant** (Aug 2012 - Dec 2013), [U.S. Department of State - COMEXUS](https://www.comexus.org.mx/).
+
+**Scholarship for graduate studies in a foreign country** (Aug 2012 - Dec 2013), Mexico's Council for Science and Technology ([CONACYT](https://www.conacyt.gob.mx/)).
+
+**Honorable Mention for undergraduate thesis** (Apr 2012), [ITAM](https://www.itam.mx/).
+
+**Scholarship for undergraduate studies** (Jan 2005 - Jan 2008), [ITAM](https://www.itam.mx/).

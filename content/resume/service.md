@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -80,3 +80,29 @@ date_format = "Jan 2006"
   description = "1000 Girls, 1000 Futures is a program from the NY Academy of Sciences that takes on the challenge of getting more women into STEM. As a mentor, my role was to guide and support high school students."
 
 +++
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
+[R-Ladies CDMX](https://www.meetup.com/es-ES/rladies-cdmx) (Jul 2012-present). Co-founder and co-organizer of Mexico City's chapter. We organize talks and workshops
+on R, creating safe spaces for gender minorities to learn and grow as R users.
+
+[Mexican Statistical Association](https://www.amestad.mx/) (Oct 2019-present). Board committee member (voted position). I collaborate on organizing events and maintaining the webpage.
+
+[CDSB - RMB](https://comunidadbioinfo.github.io/) (Jun 2018 - present). 
+I participate as R instructor with the Mexican Community of Bioinformatics Software Developers (CDSB) and with the Mexican Network for Bioinformatics (RMB).
+
+[UseR! 2021](https://user2021.r-project.org/) (Jul 2021). 
+I volunteered as abstract reviewer, zoom host, *marmot* (helping attendees find their way during the conference), and *Early-Career R Users* award reviewer.
+
+Escuela AME (Sep 2019). Co-organized a 3 day workshop on Data Science, the offer included workshops in Bayesian Statistics, Spark and Data Analysis.
+
+[Fulbright García Robles](https://www.comexus.org.mx/) (Jan 2016 - Apr 2019).
+Experts evaluation committee member. I reviewed grant applications and interviewed candidates pursuing graduate studies in the USA.
+
+[1000 Girls, 1000 Futures](https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/) (Oct 2015 - Sep 2017).
+1000 Girls, 1000 Futures is a program from the NY Academy of Sciences that takes on the challenge of getting more women into STEM. As a mentor, my role was to guide and support high school students.
+
