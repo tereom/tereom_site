@@ -3,7 +3,7 @@ title = "Challenges in the Mexican Electoral quick-count (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2021-07-24T11:00:00
+date = 2021-07-15T19:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -16,8 +16,8 @@ authors = ["Maria Teresa Ortiz", "Michelle Anzarut", "Felipe González", "Ixchel
 location = "Remote"
 
 # Name of event and optional event URL.
-event = "R-Ladies Xalapa"
-event_url = "https://www.meetup.com/es-ES/rladies-xalapa/"
+event = "Data Pub"
+event_url = "https://www.youtube.com/c/TheDataPubChannel/"
 
 # Abstract. What's your talk about?
 abstract = "We discuss the challenges on the Mexican Electoral quick-count, and how our team worked to tackle them."
