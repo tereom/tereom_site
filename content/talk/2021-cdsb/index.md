@@ -3,8 +3,8 @@ title = "Safe Paths, Naming Files (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-08-03T15:30:00
-date_end = 2020-08-03T17:30:00
+date = 2021-08-09T15:00:00
+date_end = 2021-08-09T17:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -18,13 +18,13 @@ location = "remote"
 
 # Name of event and optional event URL.
 event = "Building workflows with RStudio and Bioconductor"
-event_url = "https://comunidadbioinfo.github.io/cdsb2020/"
+event_url = "https://comunidadbioinfo.github.io/post/cdsb-2021-workshops"
 
 # Abstract. What's your talk about?
 abstract = "Good practices for paths and file naming. Based on [What They Forgot to Teach You About R](https://rstats-wtf.netlify.app/safe-paths.html) from Jennifer Bryan and Jim Hester."
 
 # Summary. An optional shortened abstract.
-summary = "I participated as instructor for the CDSB's 2020 workshop, held remotely."
+summary = "I participated as instructor in the CDSB's 2021 workshop, held remotely."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -39,10 +39,10 @@ tags = ["rstudio", "r"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "https://docs.google.com/presentation/d/1URnxggAMXH7Kf6KWqXHDanJnVbhMa6VqdBBfFUjW1eI/edit#slide=id.p"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "https://comunidadbioinfo.github.io/cdsb2021_workflows/flujos-de-trabajo-con-proyectos-de-rstudio.html"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

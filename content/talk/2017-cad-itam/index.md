@@ -1,37 +1,37 @@
 +++
-title = "Safe Paths, Naming Files (Spanish)"
+title = "Data Analysis for Social Development (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-08-03T15:30:00
-date_end = 2020-08-03T17:30:00
+date = 2017-10-30T11:00:00
+# date_end = 2030-06-01T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maria Teresa Ortiz"]
+authors = ["Teresa Ortiz"]
 
 # Location of event.
-location = "remote"
+location = "Mexico City, Mexico"
 
 # Name of event and optional event URL.
-event = "Building workflows with RStudio and Bioconductor"
-event_url = "https://comunidadbioinfo.github.io/cdsb2020/"
+event = "Expert panel on Data Analysis for Social Development"
+event_url = "https://www.itam.mx/es/evento/analisis-de-datos-para-el-desarrollo-social-la-politica-publica-y-el-desarrollo-economico-el"
 
 # Abstract. What's your talk about?
-abstract = "Good practices for paths and file naming. Based on [What They Forgot to Teach You About R](https://rstats-wtf.netlify.app/safe-paths.html) from Jennifer Bryan and Jim Hester."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "I participated as instructor for the CDSB's 2020 workshop, held remotely."
+summary = "In this expert pane event we discussed the new project from [CAD Salud](https://twitter.com/cadsalud?lang=en) on Data for Healthy municipalities."
 
 # Is this a featured talk? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["rstudio", "r"]
+tags = []
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -39,7 +39,7 @@ tags = ["rstudio", "r"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "https://docs.google.com/presentation/d/1URnxggAMXH7Kf6KWqXHDanJnVbhMa6VqdBBfFUjW1eI/edit#slide=id.p"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
