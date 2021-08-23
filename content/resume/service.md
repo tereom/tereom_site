@@ -96,7 +96,8 @@ on R, creating safe spaces for gender minorities to learn and grow as R users.
 I participate as R instructor with the Mexican Community of Bioinformatics Software Developers (CDSB) and with the Mexican Network for Bioinformatics (RMB).
 
 [UseR! 2021](https://user2021.r-project.org/) (Jul 2021). 
-I volunteered as abstract reviewer, zoom host, *marmot* (helping attendees find their way during the conference), and *Early-Career R Users* award reviewer.
+I participated on UseR! 2021 [Program Committee](https://user2021.r-project.org/about/program-committee/), as part of the Abstract Review Committee and the Award Review Committee. I also volunteered as zoom host and *marmot* (helping attendees find their way during the conference).
+
 
 Escuela AME (Sep 2019). Co-organized a 3 day workshop on Data Science, the offer included workshops in Bayesian Statistics, Spark and Data Analysis.
 
