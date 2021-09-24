@@ -1,5 +1,5 @@
 +++
-title = "Bayesian Multilevel Model for the quick-count (Spanish)"
+title = "A Bayesian Multilevel Model for the Mexican quick-count (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
