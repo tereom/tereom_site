@@ -47,14 +47,13 @@ subtitle = ""
  css_class = "mini"
 +++
 
+I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
 
-I am a data analyst with experience in marketing and ecology. I currently work at [Kantar](https://www.kantar.com/) where I do software development with R, before that I worked in CONABIO (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity. My interests include Statistical modeling (hierarchical models, spatial statistics, Bayesian networks), Survey design and Survey data analysis, Machine learning, and Data visualization. 
+I also enjoy teaching. I teach statistics courses to master students in Data Science and to bachelor/undergraduate students in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). 
 
-I enjoy teaching, I teach statistic courses to master students in Data Science and to bachelors in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). I collaborate with the Mexican *Community of Bioinformatics Software Developers* [CDSB](https://comunidadbioinfo.github.io/) teaching R workshops. And often deliver custom R training (introduction to R, survey data analysis in R, maps with R,...), I have trained people with diverse backgrounds: [RMB](https://www.redmexicanadebioinformatica.org/navegando-y-explotando-el-poder-del-tidyverse/), [CONABIO](https://www.gob.mx/conabio), [SAI](http://www.sai.com.mx), [OXFAM Mexico](https://www.oxfammexico.org), [GNP](https://www.gnp.com.mx), [SAT](https://www.sat.gob.mx/home) and [COLMEX](https://www.colmex.mx).
-
-Lastly, I :heart R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) and I regularly give talks related to R.
+Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/). 
 
 <figure>
 <img src="recording.jpg" class="center-block" alt="Recording" style="width:50%;">
-  <figcaption class="figure-caption text-center">Recording birds, not my day to day.</figcaption>
+  <figcaption class="figure-caption text-center">Recording birds, not my day-to-day.</figcaption>
 </figure>

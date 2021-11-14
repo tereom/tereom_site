@@ -51,7 +51,7 @@ social:
   link: https://www.linkedin.com/in/tereom
 ---
 
-I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
+I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing analytics and development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
 
 I have participated in two [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/), in 2021 as Technical Committee Member, and in 2018 as Technical Committee Collaborator.
 

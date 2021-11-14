@@ -6,7 +6,7 @@ title = "Responsible AI"
 date = 2020-06-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "Artificial Intelligence (AI) presents a unique opening to promote equality of opportunities and improve the quality of life of people of Latin America and the Caribbean. However, the responsible use of AI is essential and poses major challenges. In this work, sponsored by the [IADB](https://www.iadb.org/en), we focus on the subset of challenges that are related to technical processes throughout the life cycle of AI as a decision-making/support system. Our objective is  to set recommendations in order to avoid results that are contrary (and often unexpected) to the goals of decision makers. These goals are varied: they can refer to undesirable consequences from the point of view of decision makers, wasting of resources due to inadequate targeting or any other objective that the decision maker is seeking to achieve. [Here](https://publications.iadb.org/es/ia-responsable-manual-tecnico-ciclo-de-vida-de-la-inteligencia-artificial) is the complete document (published on June 2020) and [here](https://github.com/EL-BID/Manual-IA-Responsable) is the repository with code to reproduce examples and the document itself."
+summary = "Artificial Intelligence (AI) presents a unique opening to promote equality of opportunities and improve the quality of life of people of Latin America and the Caribbean. However, the responsible use of AI is essential and poses major challenges. In this work, sponsored by the [IADB](https://www.iadb.org/en), we focus on the subset of challenges that are related to technical processes throughout the life cycle of AI as a decision-making/support system. Our objective is  to set recommendations in order to avoid results that are contrary (and often unexpected) to the goals of decision makers. These goals are varied: they can refer to undesirable consequences from the point of view of decision makers, wasting of resources due to inadequate targeting or any other objective that the decision maker is seeking to achieve."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,3 +27,13 @@ external_link = "https://publications.iadb.org/es/ia-responsable-manual-tecnico-
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+Artificial Intelligence (AI) presents a unique opening to promote equality of opportunities and improve the quality of life of people of Latin America and the Caribbean. However, the responsible use of AI is essential and poses major challenges. In this work, sponsored by the [IADB](https://www.iadb.org/en), we focus on the subset of challenges that are related to technical processes throughout the life cycle of AI as a decision-making/support system. Our objective is  to set recommendations in order to avoid results that are contrary (and often unexpected) to the goals of decision makers. These goals are varied: they can refer to undesirable consequences from the point of view of decision makers, wasting of resources due to inadequate targeting or any other objective that the decision maker is seeking to achieve.
+
+Publications: 
+
+* [Document (English)](https://publications.iadb.org/es/ia-responsable-manual-tecnico-ciclo-de-vida-de-la-inteligencia-artificial): complete document (published on October 2021 by OECD-IADB)
+
+* [Document (Spanish)](https://publications.iadb.org/es/ia-responsable-manual-tecnico-ciclo-de-vida-de-la-inteligencia-artificial): complete document (published on June 2020 by IADB)
+
+* [Repository (Spanish)](https://github.com/EL-BID/Manual-IA-Responsable) code to reproduce all examples and the document itself.
