@@ -1,5 +1,5 @@
 +++
-title = "Electoral forcasts with R (Spanish)"
+title = "Electoral forecasts with R (Spanish)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -10,7 +10,7 @@ all_day = false
 publishDate = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maria Teresa Ortiz", "Michelle Anzarut", "Felipe González", "Ixchel Meza"]
+authors = ["Maria Teresa Ortiz", "Michelle Anzarut", "Felipe González"]
 
 # Location of event.
 location = "Remote"
