@@ -54,7 +54,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=_pFrWCqTKec&t=3s"
 url_code = "https://github.com/tereom/taller-mapas-mv"
 
 # Demo talk page uses LaTeX math.
