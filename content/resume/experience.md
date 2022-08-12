@@ -29,7 +29,7 @@ date_format = "January 2006"
   
   Kantar is a global consulting company. I am part of a team whose responsibilities are to expand, automate, and maintain the analytic tools necessary to tackle research challenges. 
   
-  I lead a team of software developers (working in R), our responsabilities include:
+  I lead a team of analytic developers whose tasks include:
   
   * Maintain and improve existing R packages: add capabilities, investigate bugs and improve existing code.  
   * Participate on the R&D process for new developments: requirements gathering, investigation of appropriate statistical analyses, working with the team on experimentation and piloting.
