@@ -53,7 +53,7 @@ social:
 
 I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing analytics and development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
 
-I have participated in two [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/), in 2021 as Technical Committee Member, and in 2018 as Technical Committee Collaborator.
+I have participated in three [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/), in 2021 as Technical Committee Member, in 2018 and 2022 as Technical Committee Collaborator.
 
 I also enjoy teaching. I teach statistics courses to master students in Data Science and to bachelor/undergraduate students in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). 
 
