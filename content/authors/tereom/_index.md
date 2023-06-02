@@ -51,11 +51,10 @@ social:
   link: https://www.linkedin.com/in/tereom
 ---
 
-I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing analytics and development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
+I'm a data analyst with experience in marketing research and ecology. Currently, I'm working at Kantar, where I lead a team specializing in analytics and development using R. Before joining [Kantar](https://www.kantar.com/), I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico's National Commission of Biodiversity), where I conducted statistical analysis related to biodiversity. 
 
-I have participated in three [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/), in 2021 as Technical Committee Member, in 2018 and 2022 as Technical Committee Collaborator.
+I have participated in four [Mexican Electoral Quickcounts](https://portal.ine.mx/conteos-rapidos-procesos-electorales-federal-y-locales-2020-2021/): as Technical Committee Member in 2021 and 2023, and as Technical Committee Collaborator in 2018 and 2022 .
 
 I also enjoy teaching. I teach statistics courses to master students in Data Science and to bachelor/undergraduate students in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). 
 
-
-Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/). I volunteer with the Mexican *Community of Bioinformatics Software Developers* [CDSB](https://comunidadbioinfo.github.io/) teaching R. And I deliver custom R training (introduction to R, survey data analysis in R, data science with R,...).
+Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) – a community dedicated to promoting and supporting women in the R programming community. I volunteer with the Mexican *Community of Bioinformatics Software Developers* [CDSB](https://comunidadbioinfo.github.io/) teaching R. And I deliver custom R training (introduction to R, survey data analysis in R, data science with R,...).

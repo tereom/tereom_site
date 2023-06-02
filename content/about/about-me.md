@@ -47,12 +47,11 @@ subtitle = ""
  css_class = "mini"
 +++
 
-I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio) (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
+I am a data analyst with experience in marketing research and ecology. I currently work at [Kantar](https://www.kantar.com/) doing software development with R. Before that, I worked at [CONABIO](https://www.gob.mx/conabio)  (Mexico’s National Commission of Biodiversity) doing statistical analysis related to biodiversity.
 
 I also enjoy teaching. I teach statistics courses to master students in Data Science and to bachelor/undergraduate students in Mathematics and Actuarial Sciences at [ITAM](https://cienciadedatos.itam.mx/es/71/contenido/plan-de-estudios-de-la-licenciatura-en-ciencia-de-datos-del-itam). 
 
-Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/). 
-
+Lastly, I :heart: R, I am co-organizer of [R-Ladies CDMX](http://meetup.com/rladiescdmx/) – a community dedicated to promoting and supporting women and minorities in the R programming community.
 <figure>
 <img src="recording.jpg" class="center-block" alt="Recording" style="width:50%;">
   <figcaption class="figure-caption text-center">Recording birds, not my day-to-day.</figcaption>
