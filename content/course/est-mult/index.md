@@ -13,7 +13,7 @@ summary = "In 2014 and 2015, I taught a course in Multivariate Statistics (cover
 tags = ["statistics", "stan", "R"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://est-mult.netlify.com"
+external_link = "https://est-mult.netlify.app"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
